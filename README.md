@@ -45,4 +45,5 @@ Wind Speed vs. Bike Count: A negative relationship exists between wind speed and
 -Rain With Thunderstorm Days: Moderate bike counts, as cloud cover does not deter cyclists as much as rain does.
 # Acknowledgments
 -Thanks to the providers of the dataset.
+
 -Special thanks to the Tableau community for their resources and support.
